@@ -6,5 +6,5 @@ Criei o site em HTML5 e harmonizei, de uma forma simples, com CSS3, ligando os d
 
 A estrutura do usuário pode ser visualizada no gif abaixo:
 
-![nacionalidade](https://user-images.githubusercontent.com/61979726/131269183-b49df6f1-c84b-413b-8c95-afec0d08c283.gif)
+![Nacionalidade - Google Chrome 2021-08-29 20-54-06](https://user-images.githubusercontent.com/61979726/131269580-5c9da28e-8da6-4d23-8dcd-41080e99f8bb.gif)
 
